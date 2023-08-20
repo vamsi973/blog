@@ -1,11 +1,10 @@
-identifier: l6lfj1512c9d04d2
+identifier: l6l8j9celeg3z2xa
 appPort: 1864
 staticPort: 1668
 reloadPort: 2667
 hostName: localhost
 projectName: blog
-homeFolder: C:\Users\Admin\Documents\blog
+homeFolder: C:\Users\Admin\Documents\angular 16\blog
 distFolder: dist/blog
-outDir: C:\Users\Admin\Documents\blog\dist\static
+outDir: C:\Users\Admin\Documents\angular 16\blog\dist\static
 handle404: ''
-allowErrorCollect: false
