@@ -1,0 +1,11 @@
+identifier: l6lfj1512c9d04d2
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: blog
+homeFolder: C:\Users\Admin\Documents\blog
+distFolder: dist/blog
+outDir: C:\Users\Admin\Documents\blog\dist\static
+handle404: ''
+allowErrorCollect: false
